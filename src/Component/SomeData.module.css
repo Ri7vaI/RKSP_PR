@@ -1,0 +1,12 @@
+p {
+    background: #282c34;
+    letter-spacing: 2px;
+    line-height: 20px;
+    text-align: center;
+    text-indent: 25px;
+    border: 3px solid lavenderblush;
+    margin-left: 900px;
+    margin-right: 900px;
+
+    font-weight: bold;
+}
