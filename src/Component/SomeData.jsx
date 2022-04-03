@@ -1,4 +1,4 @@
-import './SomeData.module.css'
+import '../styles/SomeData.module.css'
 function SomeData(){
     return(
         <body className='someData'>

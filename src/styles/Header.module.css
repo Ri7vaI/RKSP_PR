@@ -1,0 +1,7 @@
+.header{
+    grid-area: h;
+}
+
+.header img{
+    border-image: -moz-element(20);
+}
